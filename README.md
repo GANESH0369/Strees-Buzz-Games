@@ -1,5 +1,5 @@
 # Strees-Buzz-Games
-# project 1: STRESS BUZZ GAMES
+# project : STRESS BUZZ GAMES
 I developed 6 games.
 #those are 
 1. GUESS THE NUMBER BY USER
